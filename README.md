@@ -26,7 +26,7 @@ A sleek and modern music player built with HTML, CSS, and JavaScript. Enjoy your
 
 ## Demo 🚀
 
-Check out the live version of the project [here](https://robson-muniz.github.io/music_player/). 🌐
+Check out the live version of the project [here](https://euphonious-bienenstitch-4a46e3.netlify.app). 🌐
 
 ---
 
