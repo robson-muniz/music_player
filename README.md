@@ -16,7 +16,7 @@ A sleek and modern music player built with HTML, CSS, and JavaScript. Enjoy your
 
 ---
 
-## features ✨
+## Features ✨
 
 - **Play, Pause, and Skip**: Control your music effortlessly. ⏯️⏭️
 - **Dynamic Track Display**: See the current track's details, including title and artist. 🎶
